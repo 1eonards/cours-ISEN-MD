@@ -11,10 +11,10 @@
             "id": "14045e30aacf0836",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,6 +193,7 @@
   },
   "active": "14045e30aacf0836",
   "lastOpenFiles": [
+    "ISEN/Daily/30-01-2025.md",
     "ISEN/Réunion/CIPA 3/CR Conseil de scolarité S6.pdf",
     "ISEN/Energie/CIPA3/Text oral.md",
     "ISEN/Réunion/CIPA 3/CR Conseil de scolarité S6.md",
@@ -204,7 +206,6 @@
     "ISEN/Energie/CIPA3/Exposé_FISA3N/EXP3_Batteries_V1_OK.pdf",
     "ISEN/Energie/CIPA3/Exposé_FISA3N/EXP2_transition_60_renouvelable_OK.pdf",
     "ISEN/Energie/CIPA3/Exposé_FISA3N/EXP1_Transition énergétique insulaire_OK.pdf",
-    "ISEN/Energie/CIPA3/Exposé_FISA3N/EXP11_pourquoi-chercher-convertir-energies-renouvelables-mer-2.pdf",
     "ISEN/Developpement durable/CIPA3/Schneider.md",
     "ISEN/Developpement durable/CIPA3/Développement durable Cours 3.md",
     "ISEN/Developpement durable/CIPA3/Question oral.md",
