@@ -11,10 +11,12 @@
             "id": "14045e30aacf0836",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "ISEN/ELA/1.Oscilloscope.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "1.Oscilloscope"
             }
           }
         ]
@@ -70,8 +72,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
