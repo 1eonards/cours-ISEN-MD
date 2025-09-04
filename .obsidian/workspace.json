@@ -11,24 +11,12 @@
             "id": "14045e30aacf0836",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ISEN/Daily/03-04-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "ISEN/Maths/CIPA3/Fiche de révision DS1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "03-04-2025"
+              "icon": "lucide-file-text",
+              "title": "Fiche de révision DS1"
             }
           }
         ]
@@ -206,6 +194,10 @@
   },
   "active": "14045e30aacf0836",
   "lastOpenFiles": [
+    "ISEN/Maths/CIPA3/Fiche de révision DS1.md",
+    "ISEN/Maths/CIPA3/DS1.md",
+    "ISEN/Maths/CIPA3/DM1.md",
+    "ISEN/Daily/03-04-2025.md",
     "ISEN/web.isen-ouest.fr/moodle/pluginfile.php/42940/mod_resource/content/0/Stage associatif - consignes - v1.1.pdf.md",
     "ISEN/ELA/Aide_rédaction_CR.pdf",
     "ISEN/ELA/1.Oscilloscope.pdf",
@@ -238,10 +230,6 @@
     "ISEN/Energie/CIPA3/Energie Cours 5.md",
     "ISEN/Energie/CIPA3/Energie Cours 4.md",
     "ISEN/Energie/CIPA3/Energie Cours 3.md",
-    "ISEN/Energie/CIPA3/Energie Cours 2.md",
-    "ISEN/STM32/CIPA3/STM32 TP 1.md",
-    "ISEN/ELA/TP/Conclusion Oscillateur a pont de wien.md",
-    "ISEN/ELA/TP/Compte rendu TP Amplificateur Opérationnel et Contre-Réaction.md",
     "Pasted image 20250610091125.png",
     "ISEN/Physique/CIPA3/TP Magnétisme/plot_2025-04-16 21-25-34_1.png",
     "ISEN/Physique/CIPA3/TP Magnétisme/plot_2025-04-16 21-25-34_0.png",
